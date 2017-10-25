@@ -1,0 +1,26 @@
+.corpo{
+	/*background-color: #000;*/
+}
+
+.cabecalho{
+	background:url('assets/ft-header.jpg') center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 70vh;
+	
+}
+.logo{
+	width: 35px;
+	height: 35px;
+
+
+}
+.guiasdemenu{
+	
+}
+.imagem{
+	border-radius: 25%;
+}
+.ultimoparagrafo{
+	color: #000;
+}
